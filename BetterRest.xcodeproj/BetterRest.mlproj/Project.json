@@ -1,0 +1,29 @@
+{
+  "activityEntities" : [
+    "projectCreated",
+    [
+      {
+        "createdDate" : "2025-09-30T15:28:13Z",
+        "event" : "projectCreated",
+        "id" : "C5B6B4E5-46B0-416F-B7B8-70E54B618C18",
+        "subtitle" : "BetterRest",
+        "title" : "Project Created"
+      }
+    ]
+  ],
+  "authorName" : "AJit Kawale",
+  "createdDate" : "2025-09-30T15:28:13Z",
+  "description" : "",
+  "id" : "F3C46592-424A-48AF-9389-62D399072F1F",
+  "license" : "",
+  "location" : "",
+  "modifiedDate" : "2025-09-30T15:28:13Z",
+  "projectName" : "BetterRest",
+  "settingsEntity" : {
+    "snapshotOnExtendTraining" : true,
+    "snapshotOnResumeTraining" : false
+  },
+  "taskType" : "generalRegresor",
+  "title" : "Tabular Regression",
+  "version" : "1.1"
+}
